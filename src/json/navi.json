@@ -1,0 +1,41 @@
+{
+    "naviDATA" : [
+       {
+           "d1" : {
+               "naviText" : "포트폴리오",
+               "type" : "",
+               "href" : "/about",
+               "cls" :  ["px-3", "font141618"]
+           }
+           
+       },
+       {
+           "d1" : {
+               "naviText" : "개발성장과정",
+               "type" : "a",
+               "href" : "#precss",
+               "cls" :  ["px-3", "font141618"]
+           }
+           
+       },
+       {
+           "d1" : {
+               "naviText" : "QnA",
+               "type" : "a",
+               "href" : "#portfolio",
+               "cls" :  ["px-3", "font141618"]
+           }
+           
+       },
+       {
+           "d1" : {
+               "naviText" : "contact",
+               "type" : "a",
+               "href" : "#contact",
+               "cls" :  ["px-3", "font141618"]
+           }
+           
+       }
+    ],
+    "sns" : []
+}
