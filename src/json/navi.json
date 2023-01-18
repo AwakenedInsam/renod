@@ -11,7 +11,7 @@
        },
        {
            "d1" : {
-               "naviText" : "개발성장과정",
+               "naviText" : "MAKING NOTE",
                "type" : "a",
                "href" : "#precss",
                "cls" :  ["px-3", "font141618"]

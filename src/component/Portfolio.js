@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Portfolio(props) {
+function Portfolio() {
     return (
         <div id="port">
 
